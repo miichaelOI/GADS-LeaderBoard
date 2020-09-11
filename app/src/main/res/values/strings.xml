@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GADS Leaderboard</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tag_fragment_learning">Learning Leaders</string>
+    <string name="tag_fragment_iq">Skill IQ Leaders</string>
+</resources>
